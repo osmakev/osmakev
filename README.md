@@ -1,21 +1,28 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/vzytyfvh/image/upload/v1785644706/HadesCodes-Dev_1_xiyqc7.png" alt="HadesCodes-Dev Logo" width="220" />
+  <img src="https://res.cloudinary.com/vzytyfvh/image/upload/v1785644706/HadesCodes-Dev_1_xiyqc7.png" alt="HadesCodes-Dev Logo" width="200" />
 </p>
 
 # Hi, I'm Kev! 👋
 
-I'm a software developer in training. I'm really excited about the idea of becoming a **Full Stack Developer** and I have a huge interest in **Game Development**. 
+I'm a software developer in training and the creator behind **hadescode-dev**. I'm passionate about building **Full Stack solutions** and I have a huge interest in **Game Development**.
 
-Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eager to expand my horizon.
+Currently, I specialize in automating workflows and creating tools with **Google Apps Script**, while expanding my software development foundations step by step.
+
+---
+
+## 🏛️ The Story Behind Hades
+
+The name **hadescode-dev** was created in loving memory of my cat, **Hades**, as a tribute to his presence in my life. It also reflects the core philosophy of my work: building solid logic, automation, and architecture in the background—under the hood—before bringing functional projects to light. This organization is the home for my personal projects, experiments, and future developments.
 
 ---
 
 ## 🚀 My Learning Roadmap
 
-### ☕ What I know so far
-* **Java:** My current university language. I'm building my logic and OOP foundations here.
+### 💻 Current Experience & Tech
+* **Google Apps Script:** My main practical focus—building scripts, automations, and tools.
+* **Java:** Currently taking it in my studies, building core programming and OOP concepts.
 
-### 📚 Languages & Tools I want to learn
+### 📚 Technologies I want to learn
 * **Web Development:** HTML, CSS, JavaScript
 * **Backend & Logic:** Python
 * **Game Development:** Unity (C#) & C++
@@ -24,6 +31,7 @@ Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eage
 
 ## 🛠️ Tech Stack
 
+![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +43,7 @@ Right now, I'm a student, so I have a solid foundation in **Java**, but I'm eage
 ---
 
 ## 🏢 Organization
-* Founder / Main Developer at **[hadescode-dev](https://github.com/hadescode-dev)**
+* Founder & Developer at **[hadescode-dev](https://github.com/hadescode-dev)**
 
 ---
 
